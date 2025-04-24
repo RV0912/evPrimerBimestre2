@@ -7,7 +7,7 @@ public class Ejercicio_14_RV {
 	public static void main(String[] args) {
 		Scanner ingreso = new Scanner(System.in);
 		int edad;
-		boolean pagoEntrada = false;
+		boolean pagoEntrada = true;
 
 		System.out.println("ingrese su edad: ");
 		edad = ingreso.nextInt();
